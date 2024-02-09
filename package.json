@@ -1,0 +1,20 @@
+{
+  "name": "sample-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geeky-abhishek/sample-ui.git"
+  },
+  "keywords": [],
+  "author": "Saiyan Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geeky-abhishek/sample-ui/issues"
+  },
+  "homepage": "https://github.com/geeky-abhishek/sample-ui#readme"
+}
